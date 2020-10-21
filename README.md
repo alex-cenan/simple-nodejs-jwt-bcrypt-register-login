@@ -8,6 +8,6 @@
 Endpoints 
 | Method| Path                    | Descripción                                      | Params                                 |
 |-------|-------------------------|--------------------------------------------------|----------------------------------------|
-| POST  | /api/auth/login         | Login de usuario                                 | email, password                        |
-| POST  | /api/auth/signin        | Registra un usuario                              | name, lastName, email, password, phone |
+| POST  | /api/auth/signin        | Login de usuario                                 | email, password                        |
+| POST  | /api/auth/signup        | Registra un usuario                              | name, lastName, email, password, phone |
 
